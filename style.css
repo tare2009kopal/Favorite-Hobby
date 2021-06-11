@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding-top: 40px;
+    background: linear-gradient(#54c3ff, #b5baeb);
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto; 
+} 
+#image{
+    width: 175px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
+
